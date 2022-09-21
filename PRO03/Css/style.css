@@ -1,8 +1,39 @@
+body {
+    font-weight: bold;
+}
+.titulo {
+    align-items: center;
+}
+
 table {
-    width: 80vw;
+    width: 50vw;
     border: 1px solid black;
+    border-collapse: collapse;
 }
 td {
     border: 1px solid black;
+}
 
+.celda-uno{
+    background-color: aquamarine;
+    text-align: center;
+
+}
+
+.celda-dos {
+    background-color: lightcoral;
+
+}
+
+.celda-sev {
+    text-align: center;
+}
+.celda-roja {
+    text-align: center;
+    color: red;
+}
+.celda-seis{
+    text-align: end;
+    vertical-align: text-bottom;
+     
 }
