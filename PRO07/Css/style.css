@@ -1,0 +1,102 @@
+body {
+    text-align: center;   
+}
+
+.main-container {
+    background-image: url(../Imagenes/ac.jpg);
+    width: 60vw;
+    height: 80%;
+    padding: 30px;
+    background-color: white;
+    border: solid 1px black;
+    display: grid;
+    grid-template-rows: 1fr 1fr 1fr;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    justify-items: center;
+    align-items: center;
+    gap: 30px 20px;
+    
+    
+}
+
+.main-container div {
+    border: 1px solid black;
+    width: 12vw;
+    height: 20vh;
+}
+
+.A {
+    background-image: url(../Imagenes/back_mantel.jpg);
+}
+
+.B {
+    background-image: url(../Imagenes/back_mantel.jpg);
+    display: inline-block;
+
+}
+.C {   
+    background-image: url(../Imagenes/back_mantel.jpg);
+    background-size: 100%;   
+}
+
+.D {   
+    background-image: url(../Imagenes/back_mantel.jpg);
+    background-size: 70%;
+    background-repeat: no-repeat;
+    background-position: center;    
+}
+
+.E{
+    background-image: url(../Imagenes/dh.jpg);
+    display: flex;
+    flex-direction: column;
+    background-size: 100%;
+   
+}
+
+.F {
+    background-color: white;
+    background-image: url(../Imagenes/dh.jpg);
+    background-size: 70%;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.G {
+    background-image: url(../Imagenes/dh_2.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    text-align: center;
+     
+    
+
+
+}
+
+.H {background-image: url(../Imagenes/dh_3.jpg);
+    background-size: 50%;
+    background-repeat: no-repeat;
+    background-position: center;
+    text-align: center;
+}
+.i {
+    background: rgb(152,237,121);
+background: linear-gradient(107deg, rgba(152,237,121,1) 39%, rgba(95,117,94,1) 82%);
+   
+
+}
+.J {
+    background: rgb(213,129,121);
+background: linear-gradient(180deg, rgba(213,129,121,0.9332326680672269) 62%, rgba(157,46,36,1) 90%);
+}
+
+.K {
+    background: rgb(121,213,132);
+background: linear-gradient(180deg, rgba(121,213,132,0.9332326680672269) 62%, rgba(44,157,36,1) 90%);
+}
+
+.L {
+    background: rgb(121,213,132);
+background: linear-gradient(180deg, rgba(121,213,132,0.16292454481792717) 62%, rgba(44,157,36,1) 90%);
+}
