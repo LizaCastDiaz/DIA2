@@ -1,0 +1,42 @@
+
+
+
+
+img {
+   display: block;
+   margin:  20vh auto;
+   width: 50%;
+  }
+
+  table {
+    width: 40%;
+    border: solid black 1px;
+    text-align: center;
+    margin-left: 30%;
+   
+   
+
+  }
+
+  th {
+    border: solid black 1px;
+    background-color: blanchedalmond;
+
+  }
+
+  td {
+    border: solid black 1px;
+    background-color: lightgoldenrodyellow;
+
+  }
+
+  .main-container {
+    
+   
+    
+  }
+
+  .container-dos{
+  
+  }
+ 
