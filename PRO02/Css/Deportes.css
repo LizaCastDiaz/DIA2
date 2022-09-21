@@ -1,0 +1,34 @@
+body {
+    margin: 0 0 0 0;
+    
+}
+
+table {
+    border: 1px solid lightskyblue;
+}
+
+td {
+    border: 1px solid lightblue;
+    background-color: aquamarine;
+
+}
+
+th {
+    border: 1px solid lightblue;
+    background-color: lightseagreen;
+}
+
+.table-insta td {
+    padding-right: 60px;
+    text-align: left;
+}
+.tr-musculacion {
+    background-color: lightgray;
+}
+
+
+ .tr-Deportes2{
+    background-color: lightgray;
+ }
+    
+ 
