@@ -1,0 +1,39 @@
+body {
+    margin: 0 0 0 0;
+}
+
+div {
+    width: 100vw;
+    
+}
+
+#div-uno {
+    background-color: aqua;
+    height: 15vh;
+}
+
+#div-dos{
+    display: flex;
+    background-color: lightcoral;
+    height: 65vh;
+    
+}
+
+#div-2-izquierda{
+    background-color: rgb(185, 134, 232);
+    height: 65vh;
+    width: 30vw;
+
+}
+#div-2-derecha{
+    background-color: blanchedalmond;
+    height: 65vh;
+    width: 70vw;
+
+
+}
+
+#div-tres {
+    background-color: lightpink;
+    height: 20vh;
+}

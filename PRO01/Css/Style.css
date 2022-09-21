@@ -1,0 +1,14 @@
+table {
+    border: solid 1px lightcoral;
+    width: 100px;
+    height: 100px;
+
+}
+
+td {
+    border: solid 1px lightgreen;
+}
+
+th {
+    border: solid 1px black;
+}
