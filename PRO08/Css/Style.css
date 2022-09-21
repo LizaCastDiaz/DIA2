@@ -1,0 +1,40 @@
+body {
+    width: 50vw;
+    height: 50vh;
+}
+.container-uno {
+    background-color: #9FC9F3;
+    background-image: url(../Imagenes/nubes.png);
+    background-repeat: no-repeat;
+    border: solid blue 3px;
+    width: 25vw;
+    height: 25vh;
+}
+
+.container-grande {
+    background-color: #9FC9F3;
+    background-image: url(../Imagenes/nubes.png),
+    url(../Imagenes/nubes.png);
+    
+    background-repeat: repeat-x;
+    border: solid red 3px;
+    width: 40vw;
+    height: 40vh;
+    margin: 20px;
+
+}
+.container-grande-img {
+    width: 50%;
+    position: relative;
+    top: 47%
+}
+
+
+.container-tres {
+    background-color: #9FC9F3;
+    background-image: url(../Imagenes/nubes.png);
+    background-repeat: no-repeat;
+    border: solid blue 3px;
+    width: 25vw;
+    height: 25vh;
+}
